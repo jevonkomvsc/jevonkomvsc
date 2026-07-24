@@ -5,7 +5,7 @@
   </a>
 </div>
 
-<h3 align="center">🎓 SIJA/TJAT Student | 🛡️ Cyber Security | 💻 Web Developer</h3>
+<h3 align="center">SIJA/TJAT Student | Cyber Security | Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jevonkomvsc&label=Profile%20Views&color=00FF88&style=flat" alt="profile views" />
@@ -14,7 +14,7 @@
 
 ---
 
-## 🌐 Socials:
+## Socials:
 
 <p align="left">
   <a href="https://linkedin.com/in/jevon-syahputra-26167a421" target="_blank">
@@ -60,7 +60,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jevonkomvsc&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="180" />
@@ -73,7 +73,7 @@
 
 ---
 
-## 🏆 GitHub Trophies:
+## GitHub Trophies:
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jevonkomvsc&theme=radical&no-frame=true&row=1&column=7" />
@@ -81,7 +81,7 @@
 
 ---
 
-## 📈 Contribution Graph:
+## Contribution Graph:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jevonkomvsc&theme=radical&hide_border=true" />
