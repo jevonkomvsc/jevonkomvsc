@@ -3,14 +3,14 @@
   <img src="https://raw.githubusercontent.com/jevonkomvsc/jevonkomvsc/main/hold-close-comfurt-anime.gif" width="100%" />
 </div>
 
-<!-- Typing Animation with Background -->
+<!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=E8E4E1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Hello%2C+I'm+Jevon+Syahputra;SIJA+Student+%7C+SMK+Telkom+Sidoarjo;Cyber+Security+%7C+Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=E8E4E1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Hello%2C+I'm+Jevon+Syahputra;SIJA%2FTJAT+Student+%7C+SMK+Telkom+Sidoarjo;Cyber+Security+%7C+Web+Developer;Always+Learning+Something+New" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Profile Badges with Background -->
+<!-- Profile Badges -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jevonkomvsc&label=Profile%20Views&color=4A7C9B&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/jevonkomvsc?label=Followers&style=for-the-badge&color=1B3A5C&logo=github&logoColor=E8E4E1" alt="followers" />
@@ -110,21 +110,23 @@ Hello. I'm **Jevon (Agnibrata) Syahputra**, a student at **SMK Telkom Sidoarjo**
 
 ---
 
-## GitHub Trophies
+## Currently Vibing To
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jevonkomvsc&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+  <a href="https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA" target="_blank">
+    <img src="https://img.shields.io/badge/Daniel%20Caesar-Best%20Part-1B3A5C?style=for-the-badge&logo=spotify&logoColor=E8E4E1" />
+  </a>
+  <a href="https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM" target="_blank">
+    <img src="https://img.shields.io/badge/Frank%20Ocean-Nights-154B6E?style=for-the-badge&logo=spotify&logoColor=E8E4E1" />
+  </a>
+  <a href="https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq" target="_blank">
+    <img src="https://img.shields.io/badge/Joji-Slow%20Dancing-256D8F?style=for-the-badge&logo=spotify&logoColor=E8E4E1" />
+  </a>
+  <a href="https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB" target="_blank">
+    <img src="https://img.shields.io/badge/Lewis%20Capaldi-Before%20You%20Go-3B8FB0?style=for-the-badge&logo=spotify&logoColor=E8E4E1" />
+  </a>
 </div>
 
----
-
-## Spotify Recently Played
-
-## Spotify Recently Played
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=Jaevonm&count=5&unique=true" />
-</div>
 ---
 
 ## Contribution Snake
@@ -139,8 +141,9 @@ Hello. I'm **Jevon (Agnibrata) Syahputra**, a student at **SMK Telkom Sidoarjo**
 
 ---
 
+<!-- Animated Blue Wave Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5AB1D0,20:3B8FB0,40:256D8F,60:154B6E,80:0B2B4A,100:05152E&height=180&section=footer&text=Thanks%20for%20Visiting&fontSize=35&fontColor=E8E4E1&animation=fadeIn&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5AB1D0,20:3B8FB0,40:256D8F,60:154B6E,80:0B2B4A,100:05152E&height=200&section=footer&text=Thanks%20for%20Visiting&fontSize=35&fontColor=E8E4E1&animation=fadeIn&fontAlignY=65" />
 </div>
 
 <p align="center">
