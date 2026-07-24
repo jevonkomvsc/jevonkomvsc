@@ -40,13 +40,13 @@ Hello. I'm **Jevon (Agnibrata) Syahputra**, a student at **SMK Telkom Sidoarjo**
   <a href="https://linkedin.com/in/jevon-syahputra-26167a421" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1B3A5C?style=for-the-badge&logo=linkedin&logoColor=E8E4E1" />
   </a>
-  <a href="mailto:emailkamu@gmail.com">
+  <a href="mailto:jevonpersonalkom@gmail.com">
     <img src="https://img.shields.io/badge/Email-2E5A7E?style=for-the-badge&logo=gmail&logoColor=E8E4E1" />
   </a>
   <a href="https://github.com/jevonkomvsc" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0A1628?style=for-the-badge&logo=github&logoColor=E8E4E1" />
   </a>
-  <a href="https://instagram.com/jevon.syahputra" target="_blank">
+  <a href="https://instagram.com/agniiibz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-4A7C9B?style=for-the-badge&logo=instagram&logoColor=E8E4E1" />
   </a>
 </div>
