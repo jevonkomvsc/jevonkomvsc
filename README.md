@@ -1,114 +1,142 @@
-!-- Animated Background Header -->
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║           SUPER EPIC ANIMATED HEADER               ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
+
+<!-- Animated Gradient Banner with Particles -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF88,50:0088FF,100:AA00FF&height=250&section=header&text=Jevon%20Syahputra&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0080,25:FF00FF,50:8000FF,75:00FFFF,100:00FF88&height=300&section=header&text=JEVON%20SYAHPUTRA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=45&stroke=00FF88&strokeWidth=2" />
 </div>
 
-<!-- Typing Animation -->
+<!-- Glitch Typing Effect -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Jevon+Syahputra;SIJA%2FTJAT+Student+%7C+SMK+Telkom+Sidoarjo;Cyber+Security+Enthusiast+%7C+Web+Developer;Always+Learning+New+Things!+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=SIJA%2FTJAT+Student+at+SMK+Telkom+Sidoarjo;Cyber+Security+Enthusiast;Full+Stack+Web+Developer;Linux+Power+User;Always+Learning+Something+New!" alt="Typing SVG" />
   </a>
 </div>
 
-<h3 align="center">SMK Telkom Sidoarjo | Cyber Security | Web Developer</h3>
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jevonkomvsc&label=Profile%20Views&color=00FF88&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/jevonkomvsc?label=Followers&style=social" alt="followers" />
-</p>
+<!-- Animated Badges Row -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jevonkomvsc&label=%20PROFILE%20VIEWS&color=FF00FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/jevonkomvsc?label=%20FOLLOWERS&style=for-the-badge&color=00FF88&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/github/stars/jevonkomvsc?label=%20STARS&style=for-the-badge&color=FF0080&logo=github" />
+</div>
 
----
+<br>
 
-##About Me
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║               ABOUT ME SECTION                            ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
-<p align="left">
-  Hello! I'm <b>Jevon (Agnibrata) Syahputra</b>, a passionate student from <b>SMK Telkom Sidoarjo</b> majoring in <b>SIJA/TJAT</b>. I have a strong interest in <b>Cyber Security</b> and <b>Web Development</b>. I love building projects with PHP, JavaScript, and exploring Linux systems. Currently working on <b>Nusantara Journey</b> — a travel website project. Always eager to learn new technologies and improve my skills! 🚀
-</p>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="35"> About Me
 
-- Currently working on **Nusantara Journey** (PHP & MySQL travel website)
-- Learning **Cyber Security, Web Development, and Linux**
-- Daily driving **Linux** for development
-- Based in **Surabaya, Jawa Timur, Indonesia**
-- Reach me via **LinkedIn** or **Email**
+<div align="center">
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+</div>
 
----
+```diff
++  Student at SMK Telkom Sidoarjo (SIJA/TJAT)
++  Passionate about Cyber Security & Ethical Hacking
++  Building awesome web apps with PHP, JavaScript & MySQL
++  Linux daily driver — Arch/Debian based distros
++ Currently working on "Nusantara Journey" travel website
++  Surabaya, Jawa Timur, Indonesia 
++  Fun fact: I can code for hours with just coffee 
 
-## Socials:
 
-<p align="left">
+<!-- Animated Wave Divider -->
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║            SOCIALS WITH ANIMATED ICONS                    ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="35"> Connect With Me
+<div align="center">
   <a href="https://linkedin.com/in/jevon-syahputra-26167a421" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=001F3F" />
   </a>
   <a href="mailto:emailkamu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B0000" />
   </a>
+  <a href="https://github.com/jevonkomvsc" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="https://instagram.com/jevon.syahputra" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=8B0046" />
+  </a>
+  <a href="https://discord.gg/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1A1A6C" />
+  </a>
+</div>
+
+<!-- Neon Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║            TECH STACK WITH ANIMATED ICONS                 ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35"> Tech Stack
+<div align="center">
+ Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,php,python,html,css,sql&theme=dark&perline=6" />
 </p>
-
----
-
-## Tech Stack:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,laravel,bootstrap,tailwind,jquery&theme=dark&perline=5" />
 </p>
-
----
-
-## GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jevonkomvsc&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevonkomvsc&layout=compact&theme=radical&hide_border=true&border_radius=10" height="180" />
+ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mariadb,aws,azure,gcp&theme=dark&perline=5" />
+</p>
+ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode,figma,nodejs,npm,apache,steam&theme=dark&perline=10" />
+</p>
+ Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib&theme=dark&perline=4" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+</p>
 </div>
-
+<!-- Neon Line -->
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║            EPIC GITHUB STATS DASHBOARD                   ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35"> GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jevonkomvsc&theme=radical&hide_border=true&border_radius=10" />
+  <!-- Main Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jevonkomvsc&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=FF00FF&icon_color=00FF88&text_color=FFFFFF&ring_color=FF0080" height="200" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevonkomvsc&layout=donut&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=FF00FF&text_color=FFFFFF" height="200" />
 </div>
-
----
-
-## GitHub Trophies:
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jevonkomvsc&theme=radical&no-frame=true&row=1&column=7" />
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jevonkomvsc&theme=radical&hide_border=true&border_radius=15&background=0D1117&stroke=FF00FF&ring=00FF88&fire=FF0080&currStreakNum=FF00FF&sideNums=00FF88&currStreakLabel=FF0080&sideLabels=FFFFFF" />
 </div>
-
----
-
-## Contribution Graph:
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jevonkomvsc&theme=radical&hide_border=true" />
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jevonkomvsc&theme=redical&hide_border=true&bg_color=0D1117&color=FF00FF&line=00FF88&point=FF0080&area=true&area_color=FF00FF20" width="95%" />
 </div>
-
----
-
-<!-- Snake Animation -->
+<!-- Neon Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║            TROPHIES & ACHIEVEMENTS                        ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="35"> GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jevonkomvsc&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+</div>
+<!-- Neon Line -->
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║            SNAKE ANIMATION                                ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35"> Contribution Snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jevonkomvsc/jevonkomvsc/output/github-snake-dark.svg" />
@@ -116,13 +144,34 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/jevonkomvsc/jevonkomvsc/output/github-snake.svg" />
   </picture>
 </div>
-
----
-
+<!-- Neon Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║           SPOTIFY NOW PLAYING (Optional)                 ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="35"> Now Playing
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:0088FF,100:AA00FF&height=120&section=footer" />
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Jaevonm&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=true&bar_color=FF00FF&bar_color_cover=false" />
+  </a>
 </div>
-
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║           EPIC FOOTER                                    ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,25:00FFFF,50:8000FF,75:FF00FF,100:FF0080&height=200&section=footer&text=THANKS%20FOR%20VISITING!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
+</div>
+<div align="center">
+  <!-- Random Dev Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+</div>
 <p align="center">
-  <i>"The best way to predict the future is to create it."</i>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30">
+  <i><b>"Code is like humor. When you have to explain it, it's bad."</b></i>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sparkles.png" width="20">
+  <b>Made with by Jevon Syahputra</b>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sparkles.png" width="20">
 </p>
