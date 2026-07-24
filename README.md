@@ -1,6 +1,11 @@
-<!-- Animated Blue Wave Header - Waving Effect -->
+<!-- Kazehaya/Sawako GIF Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05152E,20:0B2B4A,40:154B6E,60:256D8F,80:3B8FB0,100:5AB1D0&height=280&section=header&text=JEVON%20SYAHPUTRA&fontSize=55&fontColor=E8E4E1&animation=fadeIn&fontAlignY=38&stroke=5AB1D0&strokeWidth=1.5" />
+  <img src="https://raw.githubusercontent.com/jevonkomvsc/jevonkomvsc/main/kazehaya-sawako.gif" width="100%" />
+</div>
+
+<!-- Blue Wave Overlay -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05152E10,20:0B2B4A20,40:154B6E30,60:256D8F40,80:3B8FB050,100:5AB1D060&height=100&section=header&fontSize=1" />
 </div>
 
 <!-- Typing Animation -->
@@ -40,13 +45,13 @@ Hello. I'm **Jevon (Agnibrata) Syahputra**, a student at **SMK Telkom Sidoarjo**
   <a href="https://linkedin.com/in/jevon-syahputra-26167a421" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0B2B4A?style=for-the-badge&logo=linkedin&logoColor=E8E4E1" />
   </a>
-  <a href="mailto:jevonpersonalkom@gmail.com">
+  <a href="mailto:emailkamu@gmail.com">
     <img src="https://img.shields.io/badge/Email-154B6E?style=for-the-badge&logo=gmail&logoColor=E8E4E1" />
   </a>
   <a href="https://github.com/jevonkomvsc" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-05152E?style=for-the-badge&logo=github&logoColor=E8E4E1" />
   </a>
-  <a href="https://instagram.com/agniiiibz" target="_blank">
+  <a href="https://instagram.com/jevon.syahputra" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-256D8F?style=for-the-badge&logo=instagram&logoColor=E8E4E1" />
   </a>
 </div>
@@ -113,6 +118,16 @@ Hello. I'm **Jevon (Agnibrata) Syahputra**, a student at **SMK Telkom Sidoarjo**
 
 ---
 
+## Spotify Recently Played
+
+<div align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=05152E&interchange=true&bar_color=5AB1D0&bar_color_cover=false" />
+  </a>
+</div>
+
+---
+
 ## Contribution Snake
 
 <div align="center">
@@ -125,7 +140,7 @@ Hello. I'm **Jevon (Agnibrata) Syahputra**, a student at **SMK Telkom Sidoarjo**
 
 ---
 
-<!-- Animated Blue Wave Footer - Waving Effect -->
+<!-- Animated Blue Wave Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5AB1D0,20:3B8FB0,40:256D8F,60:154B6E,80:0B2B4A,100:05152E&height=200&section=footer&text=Thanks%20for%20Visiting&fontSize=35&fontColor=E8E4E1&animation=fadeIn&fontAlignY=65" />
 </div>
