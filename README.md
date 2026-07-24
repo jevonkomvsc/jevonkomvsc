@@ -58,36 +58,19 @@ Hello. I'm **Jevon (Agnibrata) Syahputra**, a student at **SMK Telkom Sidoarjo**
 
 ---
 
-## Tech Stack
+## Tech Stack & Tools
 
 <div align="center">
 
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,php,python,html,css,sql&theme=dark&perline=6" />
-</p>
-
-**Frameworks & Libraries**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,laravel,bootstrap,tailwind,jquery&theme=dark&perline=5" />
-</p>
-
-**Databases & Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mariadb,aws,azure,gcp&theme=dark&perline=5" />
-</p>
-
-**Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode,figma,nodejs,npm,apache,steam&theme=dark&perline=10" />
-</p>
-
-**Data Science**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib&theme=dark&perline=4" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-154B6E?style=for-the-badge&logo=scikitlearn&logoColor=E8E4E1" />
-  <img src="https://img.shields.io/badge/Plotly-3B8FB0?style=for-the-badge&logo=plotly&logoColor=E8E4E1" />
-</p>
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) |
+| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
+| **Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
 </div>
 
