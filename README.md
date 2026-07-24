@@ -1,6 +1,6 @@
 <!-- Kazehaya/Sawako GIF Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jevonkomvsc/jevonkomvsc/main/kazehaya-sawako.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/jevonkomvsc/jevonkomvsc/main/hold-close-comfurt-anime.gif" width="100%" />
 </div>
 
 <!-- Blue Wave Overlay -->
