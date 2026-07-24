@@ -1,16 +1,35 @@
-<!-- Typing Animation Header -->
+!-- Animated Background Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF88,50:0088FF,100:AA00FF&height=250&section=header&text=Jevon%20Syahputra&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
+</div>
+
+<!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jevon+Syahputra;Web+Developer+%7C+Cyber+Security;SMK+Telkom+Sidoarjo+Student;Always+Learning+New+Things!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Jevon+Syahputra;SIJA%2FTJAT+Student+%7C+SMK+Telkom+Sidoarjo;Cyber+Security+Enthusiast+%7C+Web+Developer;Always+Learning+New+Things!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
-<h3 align="center">SIJA/TJAT Student | Cyber Security | Web Developer</h3>
+<h3 align="center">SMK Telkom Sidoarjo | Cyber Security | Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jevonkomvsc&label=Profile%20Views&color=00FF88&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/jevonkomvsc?label=Followers&style=social" alt="followers" />
 </p>
+
+---
+
+##About Me
+
+<p align="left">
+  Hello! I'm <b>Jevon (Agnibrata) Syahputra</b>, a passionate student from <b>SMK Telkom Sidoarjo</b> majoring in <b>SIJA/TJAT</b>. I have a strong interest in <b>Cyber Security</b> and <b>Web Development</b>. I love building projects with PHP, JavaScript, and exploring Linux systems. Currently working on <b>Nusantara Journey</b> — a travel website project. Always eager to learn new technologies and improve my skills! 🚀
+</p>
+
+- Currently working on **Nusantara Journey** (PHP & MySQL travel website)
+- Learning **Cyber Security, Web Development, and Linux**
+- Daily driving **Linux** for development
+- Based in **Surabaya, Jawa Timur, Indonesia**
+- Reach me via **LinkedIn** or **Email**
 
 ---
 
@@ -27,7 +46,7 @@
 
 ---
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -101,7 +120,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:0088FF,100:AA00FF&height=120&section=footer" />
 </div>
 
 <p align="center">
