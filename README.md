@@ -120,12 +120,11 @@ Hello. I'm **Jevon (Agnibrata) Syahputra**, a student at **SMK Telkom Sidoarjo**
 
 ## Spotify Recently Played
 
-<div align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=05152E&interchange=true&bar_color=5AB1D0&bar_color_cover=false" />
-  </a>
-</div>
+## Spotify Recently Played
 
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=Jaevonm&count=5&unique=true" />
+</div>
 ---
 
 ## Contribution Snake
