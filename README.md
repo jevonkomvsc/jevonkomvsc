@@ -25,8 +25,7 @@
   <img align="right" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-4ec9-4b58-9c5e-b093b65d2e71.gif" width="260">
 </div>
 
-Hello. I'm **Jevon (Agnibrata) Syahputra**, a student at **SMK Telkom Sidoarjo** majoring in **SIJA**. I have a strong interest in **Cyber Security** and **Web Development**. I love building projects with PHP, JavaScript, and MySQL, and I daily drive **Linux** for development. Currently working on **Nusantara Journey**, a travel website project. Based in **Surabaya, Jawa Timur, Indonesia**.
-
+Hello. I'm **Jevon (Agnibrata) Syahputra**, a student at **SMK Telkom Sidoarjo** majoring in **SIJA**. I have a strong interest in **Cyber Security** and **Web Development**. I love building projects with PHP, JavaScript, and MySQL, and I daily drive **Linux** for development. 
 - Currently working on **Nusantara Journey** (PHP & MySQL travel website)
 - Learning **Cyber Security, Web Development, and Linux**
 - Daily driving **Linux** for development
